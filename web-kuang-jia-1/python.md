@@ -4,7 +4,9 @@
 
 {% embed url="https://github.com/jazzband/django-auditlog" %}
 
-[https://github.com/django/django](https://github.com/django/django)
+{% embed url="https://github.com/django/django" %}
+
+
 
 
 
