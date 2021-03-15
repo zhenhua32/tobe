@@ -17,9 +17,18 @@
 * [GUI 编写](gui-bian-xie.md)
 * [日志工具](ri-zhi-gong-ju.md)
 * [低码平台](di-ma-ping-tai.md)
+* [教程](jiao-cheng.md)
 
 ## Web 框架 <a id="web-kuang-jia-1"></a>
 
 * [Python](web-kuang-jia-1/python.md)
 * [Go](web-kuang-jia-1/go.md)
+
+## 深度学习
+
+* [引导](shen-du-xue-xi/yin-dao.md)
+
+## 语言小工具 <a id="yu-yan-gong-ju"></a>
+
+* [Python](yu-yan-gong-ju/python.md)
 
