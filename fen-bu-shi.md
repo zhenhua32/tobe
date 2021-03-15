@@ -1,6 +1,8 @@
 # 分布式
 
-[https://github.com/dapr/dapr](https://github.com/dapr/dapr)
+{% embed url="https://github.com/dapr/dapr" caption="构建分布式应用的运行时" %}
+
+
 
 
 
