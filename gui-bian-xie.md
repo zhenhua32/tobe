@@ -1,6 +1,8 @@
-# GUI编写
+# GUI 编写
 
-[https://github.com/PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+{% embed url="https://github.com/PySimpleGUI/PySimpleGUI" %}
+
+
 
 
 
