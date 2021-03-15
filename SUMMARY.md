@@ -3,4 +3,12 @@
 * [Tobe](README.md)
 * [实用工具](shi-yong-gong-ju.md)
 * [分布式](fen-bu-shi.md)
+* [Windows 管理](windows-guan-li.md)
+* [CSS 框架](css-kuang-jia.md)
+* [Kubernetes](kubernetes.md)
+* [比特币以太坊](bi-te-bi-yi-tai-fang.md)
+* [小程序](xiao-cheng-xu.md)
+* [前端组件](qian-duan-zu-jian.md)
+* [网络工具](wang-luo-gong-ju.md)
+* [测试与自动化](ce-shi-yu-zi-dong-hua.md)
 
