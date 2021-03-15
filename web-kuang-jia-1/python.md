@@ -6,6 +6,8 @@
 
 {% embed url="https://github.com/django/django" %}
 
+{% embed url="https://github.com/knipknap/SpiffWorkflow" %}
+
 
 
 
